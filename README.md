@@ -23,3 +23,5 @@ Request.py is the program that sends the request to the API. It takes in raw ima
 Results.csv is where our prediction results are stored along with the certainty of that prediction.
 
 requirements, is as always, just the necessary libraries and versions needed to run the applications.
+
+Presentation explanation is a powerpoint of how the app works along with how some of the challenges was solved.
