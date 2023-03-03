@@ -1,0 +1,7 @@
+2023-01-06 14:15:37.313487 - File Not Found. No data could be sent. Process stoped. 
+2023-01-06 14:15:42.315385 - File Not Found. No data could be sent. Process stoped. 
+2023-01-06 14:15:47.322282 - File Not Found. No data could be sent. Process stoped. 
+2023-01-06 15:34:16.997392 - Connection could not be made. No POST request was sent to '/predict'. Process stoped. 
+2023-01-19 15:03:42.184397 - Connection could not be made. No POST request was sent to '/predict'. Process stoped. 
+2023-01-19 15:04:44.315053 - Connection could not be made. No POST request was sent to '/predict'. Process stoped. 
+2023-01-19 15:05:47.007950 - Connection could not be made. No POST request was sent to '/predict'. Process stoped. 
